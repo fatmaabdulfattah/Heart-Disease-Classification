@@ -2,8 +2,11 @@
 
 ## Overview
 This repository demonstrates a machine learning workflow to analyze a dataset for predicting heart disease.
+
 **Dataset Link**:[Cardiovascular Disease Dataset](https://www.kaggle.com/code/fatmaabdulfattah/heart-disease-classification)
+
 **Kaggle notebook**:[Heart Disease Classification](https://www.kaggle.com/code/fatmaabdulfattah/heart-disease-classification)
+
 ## 1. Libraries and Tools Used
 - `Data Manipulation and Analysis:`
   numpy: Efficient mathematical operations.
